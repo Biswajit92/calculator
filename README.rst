@@ -25,3 +25,4 @@
 			 lakshmi.mandal.cse@gmail.com
 			 jaynab.jk@gmail.com
 			 
+9. License : Android 4.0.1
